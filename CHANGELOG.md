@@ -1,3 +1,14 @@
+<a name="v2.2.2"></a>
+### v2.2.2 (2015-09-12)
+
+#### Bug Fixes
+
+* **js** Added missing jQuery
+
+#### Features
+
+* Updated Prism and added more languages
+
 <a name="v2.2.1"></a>
 ### v2.2.1 (2014-05-27)
 
@@ -189,4 +200,3 @@
 #### Bug Fixes
 
 * **grunt:** Add changelog taks config ([fce4af1a](http://github.com/oswaldoacauan/ghostium/commit/fce4af1aea1f1bc8cf0de4195a5b76f1e53fbc3a))
-
